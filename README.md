@@ -1,5 +1,5 @@
 === WooCommerce Order Archiver ===
-Contributors: plugify_lab  
+Contributors: woowpman  
 Tags: woocommerce, orders, archive, performance, optimization, order management  
 Requires at least: 6.0  
 Tested up to: 6.8.1
